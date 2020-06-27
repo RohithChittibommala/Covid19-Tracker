@@ -2,9 +2,7 @@
 
 I made this  Project for getting better understanding on React.js, through this project my knowledge regarding api calls increased 
 
-I used 
-Mateial Ui to decrease time of frontend
-axios for fetching data
+I used Mateial Ui to decrease time of frontend,axios for fetching data from api
 
 
 

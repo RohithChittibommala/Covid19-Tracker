@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 75%;
+}
+.ctlabel {
+  color: red;
+  font-size: 15px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+@media (max-width: 770px) {
+  .container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+}

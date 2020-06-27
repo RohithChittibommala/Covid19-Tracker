@@ -50,7 +50,6 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
           description.death
         )}
       </Grid>
-      ;
     </div>
   );
 };

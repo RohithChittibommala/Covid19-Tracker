@@ -4,7 +4,7 @@ I made this  Project for getting better understanding on React.js, through this 
 
 I used Mateial Ui to decrease time of frontend,axios for fetching data from api
 
-*This project was inspired from tutorial of javasccript mastety
+*This project was inspired from tutorial of javascript mastety
 
 
 
